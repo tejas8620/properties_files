@@ -1,6 +1,6 @@
 spring:
   application:
-    name: GREET-API
+    name: greet
   boot:
     admin:
       client:
